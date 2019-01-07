@@ -68,6 +68,8 @@ sudo chown -R $USER:admin /usr/local
 brew update
 ```
 
+If you are in High Sierra or later, you need to run it  as [here](https://github.com/Homebrew/brew/issues/3228#issuecomment-332679274)
+
 Error message or not, proceed running the following in the terminal (you can copy / paste all the lines at once).
 
 ```bash
